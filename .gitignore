@@ -98,6 +98,8 @@ Makefile*
 # QtCreator
 
 *.autosave
+CMakeLists.txt.user
+CMakeLists.txt.user.*
 
 #QtCtreator Qml
 *.qmlproject.user
